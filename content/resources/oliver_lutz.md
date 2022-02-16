@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Projects File for "Long Term (Practiced) Engagement"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-961-seminar-on-deep-engagement-fall-2004/f0f1749c8d2b4e306f712ad8f44258da_oliver_lutz.pdf
+file: /media/courses/mas-961-seminar-on-deep-engagement-fall-2004/f0f1749c8d2b4e306f712ad8f44258da_oliver_lutz.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: oliver_lutz.pdf
 uid: f0f1749c-8d2b-4e30-6f71-2ad8f44258da
