@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,9 +13,9 @@ The readings for the class are provided in the table below. Selected student res
 Student Responses
 -----------------
 
-Hyemin Chung - Response to Hauser and Schellenberg, Week 2 ([PDF]({{< baseurl >}}/resources/hyemin_chung2))  
-Hyemin Chung - Response to Papert and Resnick, Week 3 ([PDF]({{< baseurl >}}/resources/hyemin_chung3))  
-Hyemin Chung - Response to Hassenzahl, Week 10 ([PDF]({{< baseurl >}}/resources/hyemin_chung10))
+Hyemin Chung - Response to Hauser and Schellenberg, Week 2 ({{% resource_link 8cf2c6a7-9ff8-cc3a-90bf-b89659c1b087 "PDF" %}})  
+Hyemin Chung - Response to Papert and Resnick, Week 3 ({{% resource_link c4db770e-c847-d876-4921-78af563d1b56 "PDF" %}})  
+Hyemin Chung - Response to Hassenzahl, Week 10 ({{% resource_link 89b443f1-94a7-f6de-08bc-ca3c13972d0a "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

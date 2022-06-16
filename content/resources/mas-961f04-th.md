@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/mas-961-seminar-on-deep-engagement-fall-2004/e2aeb1c2da50cda3fd1468457f2899e2_mas-961f04-th.jpg
+file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/e2aeb1c2da50cda3fd1468457f2899e2_mas-961f04-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A side-by-side comparison of research projects in "Awareness and Presence
@@ -16,3 +16,5 @@ resourcetype: Image
 title: mas-961f04-th.jpg
 uid: e2aeb1c2-da50-cda3-fd14-68457f2899e2
 ---
+New image Upload
+
