@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/535efd4d80a7f4ccaca0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: orit_zuckerman2.pdf
 uid: 535efd4d-80a7-f4cc-aca0-35e9c5ee17b1
 ---
 Assignment File for "Seminar on Deep Engagement."
-

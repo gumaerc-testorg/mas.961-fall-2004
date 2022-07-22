@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/1d67ec08710f453adc5e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hyun_yeul_lee3.pdf
 uid: 1d67ec08-710f-453a-dc5e-384efcbd02df
 ---
 Assignment File for "Seminar on Deep Engagement."
-

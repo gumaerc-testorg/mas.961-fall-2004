@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/bbfdaadb498e5d674c21
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: karen_schrier10.pdf
 uid: bbfdaadb-498e-5d67-4c21-08ea89b10f72
 ---
 Readings File for Week 10: Interactive Class Discussion
-

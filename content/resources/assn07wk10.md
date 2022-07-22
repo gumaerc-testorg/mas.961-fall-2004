@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/b209d3c98cc54926c033
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn07wk10.pdf
 uid: b209d3c9-8cc5-4926-c033-ed3e0d0192de
 ---
 Suggested questions for response paper.
-

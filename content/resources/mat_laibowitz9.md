@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/dd17dd93df7891d56fd7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mat_laibowitz9.pdf
 uid: dd17dd93-df78-91d5-6fd7-98e09fd46fc4
 ---
 Assignment File for "Seminar on Deep Engagement."
-

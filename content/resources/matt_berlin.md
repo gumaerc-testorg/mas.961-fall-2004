@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/5f003b1baed233bf2a7f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: matt_berlin.pdf
 uid: 5f003b1b-aed2-33bf-2a7f-bc473e153a47
 ---
 Projects File for "Emotional Referencing for the Robot Leonardo"
-

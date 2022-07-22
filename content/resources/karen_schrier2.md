@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/9bbd1dcf69114d47663d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: karen_schrier2.pdf
 uid: 9bbd1dcf-6911-4d47-663d-bc69c03af1bd
 ---
 Readings File for Week 2: Music - Tod Machover
-

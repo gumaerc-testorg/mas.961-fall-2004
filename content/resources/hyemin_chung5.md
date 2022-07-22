@@ -6,6 +6,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/d29b0f3f516c70d4495d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hyemin_chung5.pdf
 uid: d29b0f3f-516c-70d4-495d-d3183dc12f79
 ---
 Sample student response paper courtesy of Hyemin Chung and used with permission.
-

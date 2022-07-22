@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/ff7178806b1bfec64cc5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: oliver_lutz8.pdf
 uid: ff717880-6b1b-fec6-4cc5-fbefa7cffd7e
 ---
 Assignment File for "Seminar on Deep Engagement."
-

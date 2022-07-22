@@ -6,6 +6,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/4bae78b3ab18ea7dd8b8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hyemin_chung.pdf
 uid: 4bae78b3-ab18-ea7d-d8b8-601d48e24065
 ---
 Projects File for "The Engagement Factors in Gameplay: Predictability and Difficulty"
-

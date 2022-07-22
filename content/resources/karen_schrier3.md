@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/713fb4d4c920a79924c6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: karen_schrier3.pdf
 uid: 713fb4d4-c920-a799-24c6-b614cc66d913
 ---
 Readings File for Week 3: Learning - Mitch Resnick
-

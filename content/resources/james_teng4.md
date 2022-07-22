@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/e79bb85c612c75b574aa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: james_teng4.pdf
 uid: e79bb85c-612c-75b5-74aa-5918b9480c52
 ---
 Assignment File for "Seminar on Deep Engagement."
-

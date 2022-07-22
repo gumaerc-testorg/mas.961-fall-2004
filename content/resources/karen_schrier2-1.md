@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/9d40d8a5188243cdfc87
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: karen_schrier2.pdf
 uid: 9d40d8a5-1882-43cd-fc87-9eda27a65aaf
 ---
 Assignment File for "Seminar on Deep Engagement."
-

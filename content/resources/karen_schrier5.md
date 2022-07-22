@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/08bf9ed1643cba41e63f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: karen_schrier5.pdf
 uid: 08bf9ed1-643c-ba41-e63f-f86c4bdd3456
 ---
 Readings File for Week 5: Measuring Affect - Roz Picard
-

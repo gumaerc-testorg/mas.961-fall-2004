@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/8cf2c6a79ff8cc3a90bf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hyemin_chung2.pdf
 uid: 8cf2c6a7-9ff8-cc3a-90bf-b89659c1b087
 ---
 Readings File for Week 2: Music - Tod Machover
-

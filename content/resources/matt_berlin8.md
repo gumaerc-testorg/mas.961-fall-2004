@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/b276254f6d5916426049
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: matt_berlin8.pdf
 uid: b276254f-6d59-1642-6049-89a23eb14eb9
 ---
 Assignment File for "Seminar on Deep Engagement."
-

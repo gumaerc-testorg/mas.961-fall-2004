@@ -6,6 +6,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/ba84428da23c6e6d859f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: karen_schrier.pdf
 uid: ba84428d-a23c-6e6d-859f-c2ac90e50f97
 ---
 Project File for "Understanding Engagement with Educational Handheld Games"
-

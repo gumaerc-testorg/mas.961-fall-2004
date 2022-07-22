@@ -5,6 +5,7 @@ file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/c4db770ec847d8764921
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hyemin_chung3.pdf
 uid: c4db770e-c847-d876-4921-78af563d1b56
 ---
 Readings File for Week 3: Learning - Mitch Resnick
-
