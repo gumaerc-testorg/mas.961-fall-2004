@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Readings File for Week 10: Interactive Class Discussion'
 file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/bbfdaadb498e5d674c2108ea89b10f72_karen_schrier10.pdf
+file_size: 38602
 file_type: application/pdf
 learning_resource_types:
 - Readings

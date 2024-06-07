@@ -3,6 +3,7 @@ content_type: resource
 description: Project File for "Understanding Engagement with Educational Handheld
   Games"
 file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/ba84428da23c6e6d859fc2ac90e50f97_karen_schrier.pdf
+file_size: 494262
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Suggested questions for response paper.
 file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/2025d55e8d3bbbca62fcb9e397f769bd_assn02wk03.pdf
+file_size: 12085
 file_type: application/pdf
 learning_resource_types:
 - Assignments
