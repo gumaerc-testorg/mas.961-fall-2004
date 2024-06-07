@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment File for "Seminar on Deep Engagement."
 file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/d6ea24e5080117c1321b374d9f81ba41_james_teng9.pdf
+file_size: 47755
 file_type: application/pdf
 learning_resource_types:
 - Assignments
