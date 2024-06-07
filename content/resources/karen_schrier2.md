@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Readings File for Week 2: Music - Tod Machover'
 file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/9bbd1dcf69114d47663dbc69c03af1bd_karen_schrier2.pdf
+file_size: 31150
 file_type: application/pdf
 learning_resource_types:
 - Readings
