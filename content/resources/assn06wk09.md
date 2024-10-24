@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Suggested questions for response paper.
-file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/1cb2e69d79ac8747ffa5d2d0e2f3fdd6_assn06wk09.pdf
+file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/1cb2e69d79ac8747ffa5d2d0e2f3fdd6_assn06wk09.pdf
 file_size: 12674
 file_type: application/pdf
 learning_resource_types:
