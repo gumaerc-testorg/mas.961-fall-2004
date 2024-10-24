@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/e2aeb1c2da50cda3fd1468457f2899e2_mas-961f04-th.jpg
+file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/e2aeb1c2da50cda3fd1468457f2899e2_mas-961f04-th.jpg
 file_size: 9127
 file_type: image/jpeg
 image_metadata:

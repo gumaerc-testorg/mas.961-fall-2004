@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings File for Week 10: Interactive Class Discussion'
-file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/89b443f194a7f6de08bcca3c13972d0a_hyemin_chung10.pdf
+file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/89b443f194a7f6de08bcca3c13972d0a_hyemin_chung10.pdf
 file_size: 41491
 file_type: application/pdf
 learning_resource_types:
