@@ -2,7 +2,7 @@
 content_type: resource
 description: Project proposal (Assignment 10) courtesy of Hyemin Chung and used with
   permission.
-file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/a7bcda0642a9be26bd2ad13d6a28133f_hyemin_chung10.pdf
+file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/a7bcda0642a9be26bd2ad13d6a28133f_hyemin_chung10.pdf
 file_size: 35900
 file_type: application/pdf
 learning_resource_types:

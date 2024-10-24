@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings File for Week 5: Measuring Affect - Roz Picard'
-file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/08bf9ed1643cba41e63ff86c4bdd3456_karen_schrier5.pdf
+file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/08bf9ed1643cba41e63ff86c4bdd3456_karen_schrier5.pdf
 file_size: 43326
 file_type: application/pdf
 learning_resource_types:

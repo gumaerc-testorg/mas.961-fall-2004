@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains comments from the instructor clarifying and elaborating
   the homework assignment questions.
-file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/21a5bf10e9d64df372e049e02031afac_instructorcoment.pdf
+file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/21a5bf10e9d64df372e049e02031afac_instructorcoment.pdf
 file_size: 32950
 file_type: application/pdf
 learning_resource_types:
