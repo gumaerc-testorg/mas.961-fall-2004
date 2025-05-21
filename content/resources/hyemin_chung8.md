@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample student response paper courtesy of Hyemin Chung and used with
   permission.
-file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/8f01565f6d35f58bb42e5b5c3cfc00ff_hyemin_chung8.pdf
+file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/8f01565f6d35f58bb42e5b5c3cfc00ff_hyemin_chung8.pdf
 file_size: 34890
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings File for Week 2: Music - Tod Machover'
-file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/8cf2c6a79ff8cc3a90bfb89659c1b087_hyemin_chung2.pdf
+file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/8cf2c6a79ff8cc3a90bfb89659c1b087_hyemin_chung2.pdf
 file_size: 50022
 file_type: application/pdf
 learning_resource_types:
