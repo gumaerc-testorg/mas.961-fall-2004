@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Projects File for "Meaning Density and Other Attributes of Deep Engagement"
-file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/ee714d267e81fa8a91680f95486562fe_mat_laibowitz.pdf
+file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/ee714d267e81fa8a91680f95486562fe_mat_laibowitz.pdf
 file_size: 57215
 file_type: application/pdf
 learning_resource_types:
