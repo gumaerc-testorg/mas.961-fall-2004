@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment File for "Seminar on Deep Engagement."
-file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/e79bb85c612c75b574aa5918b9480c52_james_teng4.pdf
+file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/e79bb85c612c75b574aa5918b9480c52_james_teng4.pdf
 file_size: 43649
 file_type: application/pdf
 learning_resource_types:

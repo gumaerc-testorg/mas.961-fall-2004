@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Projects File for "Long Term (Practiced) Engagement"
-file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/f0f1749c8d2b4e306f712ad8f44258da_oliver_lutz.pdf
+file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/f0f1749c8d2b4e306f712ad8f44258da_oliver_lutz.pdf
 file_size: 464988
 file_type: application/pdf
 learning_resource_types:
