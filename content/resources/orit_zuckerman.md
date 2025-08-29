@@ -2,7 +2,7 @@
 content_type: resource
 description: Projects File for "A System to Increase Connectedness in Distributed
   Families using Contextual Asynchronous Video Communication"
-file: /courses/mas-961-seminar-on-deep-engagement-fall-2004/07b984ef320aeceebad4daa1167d0dd7_orit_zuckerman.pdf
+file: /ol-ocw-studio-app/courses/mas-961-seminar-on-deep-engagement-fall-2004/07b984ef320aeceebad4daa1167d0dd7_orit_zuckerman.pdf
 file_size: 302985
 file_type: application/pdf
 learning_resource_types:
