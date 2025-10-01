@@ -44,9 +44,9 @@ Marc Hauser's recent article on the Neuroscience of Music: 
 Hauser, Marc, and Josh McDermott. "The Evolution of the Music Faculty: A Comparative Perspective." *Nature Neuroscience* 6, no. 7 (July 2003): 663-668.
 
 Glenn Schellenberg's brand new article on studying music and IQ improvement (which puts into perspective a lot of recent work and identifies some special features of music):   
-Schellenberg, E. Glenn. "Music Lessons Enhance IQ." *Psychological Science* 15, no. 8 (2004): 511-514. ([PDF](http://www.psychologicalscience.org/pdf/ps/musiciq.pdf))
+Schellenberg, E. Glenn. "Music Lessons Enhance IQ." *Psychological Science* 15, no. 8 (2004): 511-514. ({{% resource_link "5d03264c-1789-4f8c-933b-0bcb4be1a0ff" "PDF" %}})
 
-[NPR Radio Piece](http://www.npr.org/)
+{{% resource_link "c38f4c3d-84d0-4660-a685-f1d4992f8213" "NPR Radio Piece" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -54,11 +54,11 @@ Schellenberg, E. Glenn. "Music Lessons Enhance IQ." *Psychological Science* 15, 
 Learning: Mitch Resnick
 {{< tdclose >}}{{< tdopen >}}
 
-Papert, Seymour. "[Gears of My Childhood](http://www.papert.org/articles/GearsOfMyChildhood.html)." Foreword to the book *Mindstorms: Children, Computers, and Powerful Ideas.* New York, NY: Basic Books, 1981. ISBN: 9780465046270.
+Papert, Seymour. "{{% resource_link "043cd388-3409-4a9e-bb75-afd469fe1935" "Gears of My Childhood" %}}." Foreword to the book *Mindstorms: Children, Computers, and Powerful Ideas.* New York, NY: Basic Books, 1981. ISBN: 9780465046270.
 
 Resnick, Michael. "Edutainment? No Thanks. I Prefer Playful Learning." Associazione Civita Report on Edutainment. MIT Media Laboratory.
 
-[Hard Fun](http://www.papert.org/articles/HardFun.html)
+{{% resource_link "69c7ffeb-ea0c-4ff6-9151-42a83584570d" "Hard Fun" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -108,7 +108,7 @@ Laibowitz, M., and J. A. Paradiso. "The UbER-Badge, A Versatile Platform at the
 Interactive Class Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-[ACM Interactions](http://www.acm.org/interactions/)
+{{% resource_link "2dcacf23-3b54-477a-8e00-0a50a08a0494" "ACM Interactions" %}}
 
 (Go to "current and back issues." Search the "Archive" for Volume XI, No. 5)
 
@@ -140,7 +140,7 @@ Computing Culture: Chris Czikszentmihalyi
 
 Donath, J. "Identity and Deception in the Virtual Community." In *Communities in Cyberspace*. Edited by Mark A. Smith and Peter Kollock. London, NY: Routledge, February 10, 1999. ISBN: 9780415191401.
 
-Donath, J. "Being Real." In [*The Robot in the Garden: Telerobotics and Telepistemology in the Age of the Internet*](https://www.mitpressjournals.org/doi/abs/10.1162/leon.2001.34.4.384). Edited by Ken Goldberg. Cambridge, MA: MIT Press, October 1, 2001. ISBN: 9780262571548.
+Donath, J. "Being Real." In {{% resource_link "3da73f7e-f11f-4d18-a19c-5090b55137f1" "*The Robot in the Garden: Telerobotics and Telepistemology in the Age of the Internet*" %}}. Edited by Ken Goldberg. Cambridge, MA: MIT Press, October 1, 2001. ISBN: 9780262571548.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
